@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "My Extension",
+    "version": "1.0.0",
+    "description": "Hello World!",
+    "action": {
+        "default_title": "Title",
+        "default_popup": "popup.html"
+    }
+}
